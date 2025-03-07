@@ -1,1 +1,1 @@
-# Cat-house
+# Cat-house - сайт створений за допомогою css grid стилів.
